@@ -1,0 +1,26 @@
+{
+	"name": "gulp",
+	"version": "1.0.0",
+	"description": "Gulp",
+	"author": "me",
+	"private": true,
+	"license": "",
+	"devDependencies": {
+		"browser-sync": "latest",
+		"del": "latest",
+		"gulp": "^4.0.2",
+		"gulp-autoprefixer": "latest",
+		"gulp-file-include": "latest",
+		"gulp-group-css-media-queries": "latest",
+		"gulp-plumber": "latest",
+		"gulp-sass": "latest",
+		"gulp-uglify-es": "latest",
+		"sass": "latest",
+		"transform-runtime": "0.0.0"
+	},
+	"dependencies": {
+		"gulp-clean-css": "^4.3.0",
+		"gulp-newer": "^1.4.0",
+		"gulp-rename": "^2.0.0"
+	}
+}
